@@ -1,0 +1,5 @@
+/yuan/
+__pycache__/
+*.pyc
+*.pyd.new
+_build_pyd/
