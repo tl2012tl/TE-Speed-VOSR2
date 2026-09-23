@@ -3,7 +3,8 @@
 VOSR2 图片与视频超分辨率放大 ComfyUI 节点，使用多项加速策略，对VOSR2在comfyui中的使用极致加速。为 [VOSR](https://github.com/cswry/VOSR) 加入分块推理、显存调度、视频处理优化和 SageAttention。
 
 
-官方模型：
+模型下载：
+https://pan.quark.cn/s/88fc2eeced6f
 
 
 
